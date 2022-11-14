@@ -1,0 +1,14 @@
+#scr{
+    text-align: center;
+    background-color: palevioletred;
+    color: white;
+    height: 330px;
+    padding: 180px;
+}
+.moviepg{
+    display: flex;
+    flex-wrap: wrap;
+}
+#sec2{
+    background-color: palevioletred;
+}

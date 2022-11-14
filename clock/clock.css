@@ -1,0 +1,39 @@
+#d{
+    height: 636px;
+    width: 100%;
+    overflow: auto;
+    margin: auto;
+}
+#hrs{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 636px;
+    float: left;
+    font-size: 200px;
+    /* to make font center */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sec{
+    background-color: yellowgreen;
+    width: 50%;
+    height: 636px;
+    float: right;
+    font-size: 500px;
+    /* to make forn center */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ampm{
+    font-size: 100px;
+    position: absolute;
+    left: 80%;
+    top: 55px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+
+}
